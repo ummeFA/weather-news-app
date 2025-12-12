@@ -50,5 +50,5 @@ This is a simple responsive weather forecast application built using React and M
 ✔ Responsive layout using MUI breakpoints and system props
 
 
-🔗 The Live link : https://weather-news-app-react.vercel.app/
+🔗 The Live link : [https://weather-news-app-react.vercel.app/](https://weather-news-app-rlla.onrender.com)
 
